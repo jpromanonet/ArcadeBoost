@@ -1,5 +1,3 @@
-# ArcadeBoost
-"ArcadeBoost: Turbocharge your Pygame game development with a powerful (I wish so) library for crafting engaging arcade-style games effortlessly.
 # ArcadeBoost: A Powerful Pygame Library for Arcade-Style Games
 
 ArcadeBoost is a Python library designed to supercharge your Pygame development experience, specifically tailored for crafting engaging arcade-style games. Whether you're a beginner or an experienced game developer, ArcadeBoost provides a versatile set of components, UI elements, and utilities to accelerate your game creation process.
